@@ -1,7 +1,7 @@
 #--------------------------------------------------------------
 # Simple AWS CodeBuild Config File
 #
-# Copyleft (c) by Denis Astahov
+# Copyleft (c) by Artur Prudnikov
 #--------------------------------------------------------------
 version: 0.2
 
